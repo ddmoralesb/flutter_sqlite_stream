@@ -1,0 +1,4 @@
+#Thu Jul 09 00:07:32 CDT 2020
+base.0=/Users/ddmoralesb/Documents/stream_example/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
